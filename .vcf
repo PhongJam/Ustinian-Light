@@ -1,0 +1,19 @@
+开始：VCARD
+版本：3.0 
+N:;;;; 
+FN: 
+ORG: 
+ADR;TYPE=工作:
+职位
+: 电话;TYPE=手机:
+电话;TYPE=工作:电话; 
+TYPE=家庭:
+电话;TYPE=MSG:
+电子邮件;TYPE=工作: 
+URL;TYPE=数字名片: 
+URL: 
+
+KEY;TYPE=PGP;ENCODING=b:
+注意: 
+UID:EnBizCard-100433249 
+END:VCARD
